@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "470317285176",
+    "project_id": "home-automation-51ff0",
+    "storage_bucket": "home-automation-51ff0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470317285176:android:cbdc0a69a78c25db8f8bcd",
+        "android_client_info": {
+          "package_name": "com.domus.smarthome.domus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470317285176-e3277i6ikcp4p63tpcbma4r1pp95rias.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3GMkBj-D2jPzSPX8f0NvH7gJ3dBYlDRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470317285176-e3277i6ikcp4p63tpcbma4r1pp95rias.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+} 
